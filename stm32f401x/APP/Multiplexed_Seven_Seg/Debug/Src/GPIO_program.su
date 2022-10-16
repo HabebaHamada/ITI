@@ -1,0 +1,5 @@
+../Src/GPIO_program.c:17:5:GPIO_u8WritePinValue	24	static
+../Src/GPIO_program.c:30:5:GPIO_u8WritePortValue	24	static
+../Src/GPIO_program.c:43:5:GPIO_u8ReadPinValue	24	static
+../Src/GPIO_program.c:57:5:GPIO_u8ReadPortValue	24	static
+../Src/GPIO_program.c:73:4:GPIO_u8SetGroupChannel	16	static
