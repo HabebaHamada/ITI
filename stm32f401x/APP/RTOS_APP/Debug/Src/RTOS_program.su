@@ -1,0 +1,7 @@
+../Src/RTOS_program.c:21:4:RTOS_u8CreateTask	32	static
+../Src/RTOS_program.c:54:6:RTOS_voidDeleteTask	16	static
+../Src/RTOS_program.c:61:4:RTOS_u8SuspendTask	24	static
+../Src/RTOS_program.c:82:4:RTOS_u8ResumeTask	24	static
+../Src/RTOS_program.c:102:4:RTOS_u8GetTaskState	24	static
+../Src/RTOS_program.c:121:6:Scheduler	16	static
+../Src/RTOS_program.c:181:6:RTOS_voidStartOS	8	static
