@@ -1,0 +1,8 @@
+"./Src/GPIO_program.o"
+"./Src/PORT_program.o"
+"./Src/RCC_program.o"
+"./Src/ShiftReg_program.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f401ccux.o"

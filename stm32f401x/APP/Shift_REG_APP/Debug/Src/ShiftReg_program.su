@@ -1,0 +1,2 @@
+../Src/ShiftReg_program.c:22:6:ShiftRegister_voidSendData	40	static
+../Src/ShiftReg_program.c:37:6:ShiftRegister_voidSendDataTwo	40	static
