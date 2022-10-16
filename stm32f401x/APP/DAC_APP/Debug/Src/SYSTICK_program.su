@@ -1,0 +1,6 @@
+../Src/SYSTICK_program.c:22:6:STK_voidInit	4	static
+../Src/SYSTICK_program.c:34:6:STK_voidStopTimer	4	static
+../Src/SYSTICK_program.c:44:6:STK_voidSetBusyWait	16	static,ignoring_inline_asm
+../Src/SYSTICK_program.c:60:6:STK_voidSetPeriodicInterval	16	static
+../Src/SYSTICK_program.c:71:6:STK_voidSetSingleInterval	16	static
+../Src/SYSTICK_program.c:81:6:SysTick_Handler	8	static
